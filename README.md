@@ -2,7 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![project](Screen_Recording_2023-05-26_at_8_19_38_PM_AdobeExpress.gif)
+![project](Screenshot%202023-05-26%20at%208.35.46%20PM.png)
+![project](Screenshot%202023-05-26%20at%208.36.11%20PM.png)
 
 ## Available Scripts
 
